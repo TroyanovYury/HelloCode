@@ -1,0 +1,15 @@
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.exe
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.deps.json
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.runtimeconfig.json
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.dll
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.pdb
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.csproj.AssemblyReference.cache
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.AssemblyInfoInputs.cache
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.AssemblyInfo.cs
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.csproj.CoreCompileInputs.cache
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.dll
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\refint\Example001_HellConsole.dll
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.pdb
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.genruntimeconfig.cache
+C:\Users\troya\Desktop\Examples\Example001_HellConsole\obj\Debug\net6.0\ref\Example001_HellConsole.dll
